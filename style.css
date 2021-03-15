@@ -1,0 +1,361 @@
+ * {
+    border: 0;    
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    border: 0px;
+    padding-left:5vw;
+    padding-right: 5vw;
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: #11111a;
+}
+
+#header {
+    width: 100%;
+    margin: 0px;
+    height: 50px;
+    background: #222535;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+header p{
+    width: 300px;
+    margin: 0px;
+    margin-left: 25px;
+    font-size: 3vw;
+}
+
+header nav{
+    width: 100%;
+    margin: 0px;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    margin-right: 25px;
+}
+
+.style_link{
+    font-size: 2vw;
+    margin: 15px;
+    text-decoration: none;
+    color: #fff;
+}
+
+#main{
+    width: 100%;
+    margin: 0px;
+}
+
+section div{
+    background-color: bisque;
+}
+#img_praia{
+    width: 100%;
+    margin: 0px;
+}
+
+#img_selfie{
+    width: 40vw;
+    display: inline;
+    top: -43vw;
+    left: 50vw;
+    position: relative;
+}
+
+#div1{
+    width: 100%;
+    height: 68vw;
+    background-color: #222535;
+}
+
+#titulo_sobremim{
+    font-size: 5vw;
+    font-style: italic;
+    color: #fff;
+    display:flex;
+    top: -74.5vw;
+    left: 3vw;
+    position: relative;
+}
+
+#fonte_main_1{
+    width: 48vw;
+    font-size: 3vw;
+    color: #fff;
+    display:flex;
+    text-align: justify;
+    top: -68vw;
+    left: 2vw;
+    position: relative;
+}
+
+.fonte_main{
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+}
+
+#img_mergulho{
+    width: 100%;
+    margin: 0px;
+}
+
+#div2{
+    width: 100%;
+    margin: 0px;
+    height: 60vw;
+    background-color: #222535;
+}
+
+#fonte_main_2{
+    width: 48vw;
+    font-size: 3vw;
+    color: #fff;
+    display:flex;
+    top: 5vw;
+    left: 2vw;
+    text-align: justify;
+    position: relative;
+}
+
+#div3{
+    width: 100%;
+    margin: 0px;
+    height: 65vw;
+    background-color: #272b46;
+}
+
+#titulo_hobbies{
+    font-size: 4vw;
+    font-style: italic;
+    color: #fff;
+    display:flex;
+    top: 0vw;
+    left: 3vw;
+    position: relative;
+}
+
+#img_aquario{
+    width: 32vw;
+    display: inline;
+    top: -18vw;
+    left: 54vw;
+    position: relative;
+}
+
+#img_black{
+    width: 55vw;
+    margin: 0vw;
+    display: inline;
+    top: 5vw;
+    left: 0vw;
+    position: relative;
+}
+
+#img_black2{
+    width: 30vw;
+    display: inline;
+    top: -13vw;
+    left: 0vw;
+    position: relative;
+}
+
+#fonte_main_3{
+    width: 43vw;
+    font-size: 3vw;
+    color: #fff;
+    display: flex;
+    width: 48vw;
+    top: -55vw;
+    left: 18vw;
+    text-align: justify;
+    position: relative;
+}
+
+#fonte_main_4{
+    width: 30vw;
+    font-size: 3vw;
+    color: #fff;
+    display:flex;
+    top: -26vw;
+    left: 52vw;
+    text-align: center;
+    position: relative;
+}
+
+#div4{
+    width: 100%;
+    margin: 0px;
+    height: 50vw;
+    background-color: #222535;
+}
+
+#img_cruzeiro{
+    width: 25vw;
+    display:flex;
+    top: 10vw;
+    left: 64vw;
+    position: relative;
+
+}
+#img_pipa{
+    width: 25vw;
+    display:flex;
+    top: 0vw;
+    left: 45vw;
+    position: relative;
+
+}
+#img_pipa_mar{
+    width: 25vw;
+    display:flex;
+    top: -50vw;
+    left: 45vw;
+    position: relative;
+}
+#img_trilha{
+    width: 25vw;
+    display:flex;
+    top: -50vw;
+    left: 22vw;
+    position: relative;
+}
+
+#img_parque{
+    width: 25vw;
+    display:flex;
+    top: -81vw;
+    left: 0vw;
+    position: relative;
+}
+
+#fonte_main_5{
+    width: 40vw;
+    font-size: 3vw;
+    color: #fff;
+    display:flex;
+    top: -120vw;
+    left: 3vw;
+    text-align: justify;
+    position: relative;
+}
+
+#div5{
+    width: 100%;
+    margin: 0px;
+    height: 100vw;
+    background-color: #2e324b;
+}
+
+#img_eu_ect{
+    width: 100%;
+    margin: 0px;
+}
+
+#img_hardshot{
+    width: 22vw;
+    display:flex;
+    top: 2vw;
+    left: 65vw;
+    position: relative;
+}
+
+#img_insta{
+    width: 22vw;
+    display:flex;
+    top: 3vw;
+    left: 65vw;
+    position: relative;
+}
+
+#fonte_main_6{
+    width: 60vw;
+    font-size: 2.5vw;
+    color: #fff;
+    display:flex;
+    top: -41vw;
+    left: 2vw;
+    text-align: justify;
+    position: relative;
+}
+
+#fonte_main_7{
+    width: 60vw;
+    font-size: 2.5vw;
+    color: #fff;
+    display:flex;
+    top: -35vw;
+    left: 2vw;
+    text-align: justify;
+    position: relative;
+}
+
+#titulo_portofio{
+    width: 50vw;
+    font-size: 5vw;
+    font-style: italic;
+    color: #fff;
+    display:flex;
+    top: -92vw;
+    left: 42vw;
+    position: relative;
+}
+
+#div6{
+    width: 100%;
+    margin: 0px;
+    height: 60vw;
+    background-color: #2e324b;
+}
+
+#img_horizonte{
+    width: 100%;
+    margin: 0px;
+}
+
+#fonte_main_8{
+    width: 93%;
+    font-size: 2.5vw;
+    color: #fff;
+    display:flex;
+    top: -2vw;
+    left: 2vw;
+    text-align: justify;
+    position: relative;
+}
+
+#titulo_eject{
+    width: 100%;
+    margin: 0px;
+    font-size: 4vw;
+    font-style: italic;
+    color: #fff;
+    display:flex;
+    top: -6vw;
+    left: 1vw;
+    text-align: justify;
+    position: relative;
+}
+
+body footer{
+    width: 100%;
+    height: 50px;
+    font-size: 2vw;
+    color: #fff;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color:#222535;
+}
